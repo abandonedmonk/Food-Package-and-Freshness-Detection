@@ -1,0 +1,54 @@
+Frame ID: 1729421003.3647947
+Object ID: 0
+Timestamp: 20241020-161326
+Analysis:
+The image shows a purple plastic package with a white logo and text. The following information can be extracted from the image:
+
+**Product Name**
+No product name is visible on the packaging.
+
+**Brand Name**
+The brand name "TALAM" is written in white text on the packaging.
+
+**Ingredients List**
+No ingredients list is visible on the packaging.
+
+**Nutritional Information**
+No nutritional information is visible on the packaging.
+
+**Serving Size**
+No serving size information is visible on the packaging.
+
+**Expiry Date or 'Best Before' Date**
+No expiry date or 'best before' date is visible on the packaging.
+
+**Manufacturing Date**
+No manufacturing date is visible on the packaging.
+
+**Weight/Quantity**
+The packaging appears to contain a single serving, but the exact weight or quantity is not visible.
+
+**Storage Instructions**
+No storage instructions are visible on the packaging.
+
+**Allergen Warnings**
+No allergen warnings are visible on the packaging.
+
+**Certifications**
+No certifications (e.g., organic, non-GMO) are visible on the packaging.
+
+**Country of Origin**
+No country of origin information is visible on the packaging.
+
+**Contact Information**
+No contact information (manufacturer or distributor) is visible on the packaging.
+
+**Batch/Lot Number**
+No batch or lot number is visible on the packaging.
+
+**Cooking or Usage Instructions**
+No cooking or usage instructions are visible on the packaging.
+
+**Legal Disclaimers**
+No legal disclaimers (e.g., 'Keep out of reach of children') are visible on the packaging.
+-------------------

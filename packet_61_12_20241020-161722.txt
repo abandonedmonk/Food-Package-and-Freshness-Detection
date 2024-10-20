@@ -1,0 +1,73 @@
+Frame ID: 61
+Object ID: 12
+Timestamp: 20241020-161722
+Analysis:
+The image shows a box of FurCoat Syrup, which is a product for animal feed. The box is white with purple and yellow accents, and it has a clear plastic window on the front that allows the product inside to be visible.
+
+Here are the details extracted from the packaging:
+
+**Product Information**
+
+* **Product Name:** FurCoat Syrup
+* **Brand Name:** Not specified
+* **Product Description:** Animal feed supplement
+
+**Ingredients List**
+
+* Not specified
+
+**Nutritional Information**
+
+* Not specified
+
+**Serving Size**
+
+* Not specified
+
+**Expiry Date/Best Before Date**
+
+* Not specified
+
+**Manufacturing Date**
+
+* Not specified
+
+**Weight/Quantity**
+
+* Not specified
+
+**Storage Instructions**
+
+* Keep in cool temperature protected from sunlight
+* Do not freeze
+
+**Allergen Warnings**
+
+* Not specified
+
+**Certifications**
+
+* Not specified
+
+**Country of Origin**
+
+* Not specified
+
+**Contact Information**
+
+* Manufacturer/Distributor: Not specified
+
+**Batch/Lot Number**
+
+* Not specified
+
+**Cooking/Usage Instructions**
+
+* Not specified
+
+**Legal Disclaimers**
+
+* Keep out of reach of children
+
+Note: Unfortunately, the image does not provide enough information to fill in all the categories. However, the extracted details are categorized under the appropriate headings for ease of understanding.
+-------------------
