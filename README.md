@@ -1,6 +1,6 @@
 # Tomato and Packet Detection System
 
-![Banner Image](https://i.ibb.co/s325zjv/2ec3edaf-35d4-4cef-a574-a7ccd1e92c5a.jpg)  
+![Banner Image](https://i.ibb.co/PCNT0xZ/2ec3edaf-35d4-4cef-a574-a7ccd1e92c5a.jpg)  
 
 A computer vision system that performs real-time detection and analysis of tomatoes and product packets using YOLO object detection and LLaMA vision-language model.
 
