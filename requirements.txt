@@ -1,0 +1,8 @@
+groq==0.15.0
+numpy==2.2.1
+opencv_contrib_python==4.10.0.84
+opencv_python==4.10.0.84
+Pillow==11.1.0
+python-dotenv==1.0.1
+streamlit==1.37.1
+ultralytics==8.3.12
